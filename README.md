@@ -4,7 +4,7 @@
 I am an Electronics Engineering (ECE) student at the University of Southeastern Philippines (USeP) building **decoupled backend architectures**, **event-driven ETL pipelines**, and **hardware-to-cloud IoT systems**.
 
 📫 **Reach me:** jhuraldhilary@gmail.com | [LinkedIn](https://linkedin.com/in/jhuraldhilarylantape/)  
-📄 **Resume:** [👉 View my full Technical Resume here](https://github.com/Ainz47/Projects/blob/main/resume.md)
+📄 **Resume:** [👉 View my full Technical Resume here](https://github.com/Ainz47/Projects/blob/main/RESUME.md)
 
 ---
 
